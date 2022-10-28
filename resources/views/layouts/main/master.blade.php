@@ -29,6 +29,7 @@
    <meta name="twitter:title" content="@yield('title')" />
    <meta name="twitter:description" content="@yield('description')" />
    <meta name="twitter:image" content="@yield('image')" />
+   <meta name="google-site-verification" content="xO5DI2yF_nvPdiogoTBxHQr6R4YKBzfKguau0DWVzio" />
    <!-- Fav Icon -->
    <link rel="icon" href="{{url(''.$setting->favicon)}}" type="image/x-icon">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
