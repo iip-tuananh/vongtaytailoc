@@ -17,7 +17,7 @@
             </a>
             </div>
             <div class="head-contact-mb visible-sm visible-xs">
-            <a href="/lien-he" title="Liên hệ cửa hàng" rel="nofollow">
+            <a href="https://www.google.com/maps/place/{{$setting->address1}}" title="Liên hệ cửa hàng" rel="nofollow" target="_blank">
                <svg viewBox="0 0 512.076 512.076" width="15px">
                   <path d="M245.791,0C153.799,0,78.957,74.841,78.957,166.833c0,36.967,21.764,93.187,68.493,176.926
                         c31.887,57.138,63.627,105.4,64.966,107.433l22.941,34.773c2.313,3.507,6.232,5.617,10.434,5.617s8.121-2.11,10.434-5.617
