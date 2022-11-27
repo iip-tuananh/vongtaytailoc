@@ -262,8 +262,8 @@
                   </li>
                   @endforeach
                   <li class="menu_hover nav-item nav-items ">
-                     <a href="{{route('allProductBrand')}}" class="nav-link" title="Vòng theo mệnh">
-                           Vòng theo mệnh
+                     <a href="{{route('allProductBrand')}}" class="nav-link" title="Sản phẩm theo mệnh">
+                           Sản phẩm theo mệnh
                            <i class="fa" data-toggle="dropdown">
                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                               viewBox="0 0 240.811 240.811">
@@ -344,7 +344,7 @@
       </li>
       @endforeach
       <li class="mb-nav-item lv0">
-         <a href="{{route('allProductBrand')}}" class="mb-link" title="Vòng theo mệnh">Vòng theo mệnh</a>
+         <a href="{{route('allProductBrand')}}" class="mb-link" title="Sản phẩm theo mệnh">Sản phẩm theo mệnh</a>
          @if (count($productBrands) > 0)
          <i class="fa">
             <img src="{{url('frontend/images/right-chevron.svg')}}" alt="icon-right" loading="lazy">
